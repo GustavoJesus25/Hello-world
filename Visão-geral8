@@ -1,0 +1,12 @@
+package main
+
+import (
+	"fmt"
+)
+
+var x int
+
+func main() {
+	x = 19
+	fmt.Printf("x: %v, %T", x, x)
+}
