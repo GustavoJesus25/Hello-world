@@ -1,0 +1,10 @@
+package main
+
+import (
+	"fmt"
+)
+
+func main() {
+	x := `"olá bom dia\ncomo vai\tespero \"que\" bem"`
+	fmt.Println(x)
+}
