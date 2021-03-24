@@ -1,0 +1,14 @@
+https://play.golang.org/p/8_H3MPRf8FN
+para apenas uma declaração ou declarações multiplas
+
+https://play.golang.org/p/I-Dya1i5IHI
+Valor zero 
+
+https://play.golang.org/p/kYu3TXj731L
+Como apresentar mais variaveis dentro de uma 
+
+https://play.golang.org/p/dsw2dFYaoks
+Atribuição de valor para uma variável. SEMPRE USAR O PRINTF PARA MOSTRAR VALOR SEU MONGOL
+
+https://play.golang.org/p/8zJfTqY6fIR
+Não colocar valor na variavel da Package

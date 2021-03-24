@@ -1,0 +1,40 @@
+https://play.golang.org/p/_PhlX1Z3KyP
+Array serve pra mostrar o número de elementos que se pode colocar.
+[n] = posição de onde o elemento vai estar na ordem 
+[n]int = tipo e quantidade de elementos 
+len (x) = diz quantos elementos tem dentro do array
+Elementos finitos
+
+https://play.golang.org/p/lVi01nnLHoK
+Slice é o mesmo que Array, mas pode-se por mais elementos 
+https://play.golang.org/p/WnJ312eYfWb
+Range determina a quantidade de elementos 
+Append acrescenta um elemento a mais // cria uma nova slice 
+https://play.golang.org/p/XcGEtsRBssc
+Total := 0     {usados para determinar a soma
+total += valor {dos valores do slice
+
+https://play.golang.org/p/we_Pt_KLOj8
+Fatiando uma fatia
+https://play.golang.org/p/rPkvqa8OFHi
+"Desafio" de mostrar os valores sem usar Range
+https://play.golang.org/p/5bCZNZt6q3R
+Deletando uma fatia
+https://play.golang.org/p/XMDLG8LP8Tx
+Append anexa uma slice nova, seja em uma slice já existente ou não (usa-se ... após append para anexar uma slice dentro de outra)
+
+
+https://play.golang.org/p/xo6AgNaeZiL
+Make aumenta o limite de capacidade de elementos quando ele é ultrapassado.
+
+https://play.golang.org/p/i8rfybOY-P_V
+https://play.golang.org/p/uFYMYfqgHUp
+Slice multi-Dimensionais 
+
+https://play.golang.org/p/pR7OnVIo7bf
+Array subjacente altera a slice original // come o antepenultimo elemento e repete os dois ultimos.
+
+https://play.golang.org/p/l7UqSXvvBPI
+Map, mapa de dados ou lista de dados
+comma ok quando o valor não for encontrado
+
