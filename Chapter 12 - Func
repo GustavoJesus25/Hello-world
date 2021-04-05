@@ -1,0 +1,51 @@
+https://play.golang.org/p/MqZFY3-kfHC
+Função // func basica()
+
+https://play.golang.org/p/rqF-rY4bFvY
+Função // func que aceita argumento
+
+https://play.golang.org/p/lo1Rg-gZggd
+Função // func com retorno
+
+https://play.golang.org/p/94GLvf3EvB7
+Função // func com multiplos retornos
+
+https://play.golang.org/p/fZZII2ItcSd
+Função // mais um do de cima
+https://play.golang.org/p/wR9E1AfH-Yy
+Não roda porque os 3 pontin estão antes e não no final
+
+https://play.golang.org/p/W61WqwIrzE2
+Pondo uma slice de ints como argumento para a função "soma" 
+
+https://play.golang.org/p/RJf-QIgXKpr
+Parâmetro variádico passa valor 0 e em diante
+
+https://play.golang.org/p/wTW7DUm8K5j
+Defer adia a ação
+
+https://play.golang.org/p/M9RY4JAUfC6
+Função anexada a um tipo, ela não roda sem o tipo.
+
+https://play.golang.org/p/TddlUt1SwtQ
+https://play.golang.org/p/iYUWv2r_bMA
+interface & Polimorfismo
+
+https://play.golang.org/p/pQsHD-mE39S
+Função anonima
+
+https://play.golang.org/p/apSpRG9kvrd
+https://play.golang.org/p/EfnQcmofgiK
+Função como expressão
+
+https://play.golang.org/p/n6Z5hbXwJ2N
+Retorna uma função com uma função
+
+https://play.golang.org/p/weLuqNQJjxg
+Callback 
+
+https://play.golang.org/p/Lfh5c4KS0mC
+closure // pega um valor de fora da função e faz uma cópia
+
+https://play.golang.org/p/OQR2vpHo_Rt
+Recursividade e recusividade com loops
