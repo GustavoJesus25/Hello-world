@@ -1,0 +1,14 @@
+https://play.golang.org/p/xdgNQLlXDgl
+Local de armazenamento do valor ou da variavel 
+
+https://play.golang.org/p/zjXAujXG8jW
+Mostra o valor dentro do local de armazenamento
+
+https://play.golang.org/p/FRijb0vshiQ
+Tipos e valores e acrescentamento de valor no local de armazenamento
+
+https://play.golang.org/p/qpW0zujXl8R
+Nesta é mudado o valor no local de armazenamento do valor
+
+https://play.golang.org/p/O4Eyv95rovE
+Nesta é mudado apenas o valor da função, mas o valor no local de armazenamento continua o mesmo.
