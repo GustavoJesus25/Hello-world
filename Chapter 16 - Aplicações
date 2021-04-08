@@ -1,0 +1,38 @@
+https://play.golang.org/p/z0Q5IwPKPsN
+JSON marshal (ordenação) // colocando código em JSON
+
+https://play.golang.org/p/V6_BNn1Je_N
+JSON Unmarshal (Desordernação) // contrário de JSON marshal
+
+https://play.golang.org/p/RfLEeNXid8d
+Com Encoder
+
+https://play.golang.org/p/yDUXRFeOAfz
+Sort of Slice of Strings
+
+https://play.golang.org/p/Cr6trCT4JNI
+Sort of Slice of Ints
+
+https://play.golang.org/p/zYm1yeC81-F
+Customizando Sort
+
+package main
+
+import "fmt"
+import "golang.org/x/crypto/bcrypt"
+
+func main() {
+	senha := "20julho1980"
+	senhaerrada := "20julho1990"
+
+	sb, err := bcrypt.GenerateFromPassword([]byte(senha), 10)
+	if err != nil {
+		fmt.Println(err)
+	}
+
+	fmt.Println(string(sb))
+
+	fmt.Println(bcrypt.CompareHashAndPassword(sb, []byte(senha)))
+	fmt.Println(bcrypt.CompareHashAndPassword(sb, []byte(senhaerrada)))
+
+}
