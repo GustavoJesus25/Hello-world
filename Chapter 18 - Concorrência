@@ -1,0 +1,13 @@
+https://play.golang.org/p/u5I8KhTu2p_d
+https://play.golang.org/p/8iiqLX4sWc
+
+Goroutines & WaitGroups
+
+https://play.golang.org/p/SNinxGS7pXj
+Código errático, pois tem race conditions
+
+https://play.golang.org/p/YrBBJ7pLqr8
+Código seguro pois não tem Race conditions // mutex (mu.lock) (mu.Unlock)
+
+https://play.golang.org/p/xHJwS5qBMnT
+Atomic 
