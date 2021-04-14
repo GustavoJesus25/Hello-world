@@ -1,0 +1,55 @@
+Na minha religião, underscore é pecado.
+    Verifique seus erros!
+    (Exceção: fmt.Println)
+    Na prática:
+        Exemplo 0: fmt.Println
+        Exemplo 1: fmt.Scan(&var)
+        Exemplo 2: os.Create → strings.NewReader → io.Copy
+        Exemplo 3: os.Open → io.ReadAll
+
+
+Verificando erros
+https://play.golang.org/p/n04xf9mpPZ9
+https://play.golang.org/p/bN-iYSgpAoB
+https://play.golang.org/p/jZevy_Tf0Jc
+https://play.golang.org/p/SOMX5LdyC7R
+
+Print & Log
+
+fmt.Println
+https://play.golang.org/p/KXl81-bLsyt
+
+log.Println
+https://play.golang.org/p/oo0XWA9g1S_K
+
+log.SetOutput
+https://play.golang.org/p/BLNaz5VYkUd
+
+log.Fatalln // tira tudo e desliga
+https://play.golang.org/p/obnNdGpUlNI
+
+log.Panicln // cancela todas as operações e tenta recuperar
+https://play.golang.org/p/dJ6oJyOzNYd
+
+panic // cancela todas as operações e tenta recuperar
+https://play.golang.org/p/u0-azJ5e_dF
+
+Recover
+
+https://play.golang.org/p/Ujf1dRatTMb
+// Vai rodar o G até g3, chegando em G4 vai dar um defer para cancelar todas as funções G por causa do Panic que vai tentar retomar o controle do erro, mas quando chegar em F que tem o Recover, o panic vai parar e o Recover vai comandar pra fazer com que F funcione normalmente.
+
+errors.New
+https://play.golang.org/p/kmk5V8DydDs
+
+var errors.New
+https://play.golang.org/p/9cntJEgbqwt
+
+fmt.Errorf
+https://play.golang.org/p/Xq4uzcz3qVB
+
+var fmt.Errorf
+https://play.golang.org/p/nEa5JLYHhTW
+
+type + method = error interface
+https://play.golang.org/p/X55xMkyPsVZ
