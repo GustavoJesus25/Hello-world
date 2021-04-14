@@ -1,0 +1,50 @@
+//uso de variaveis para retorno de dados
+:=  //operador curto de declaração ou marmota faz tipagem automática
+x := 10 //valor numérico
+y := Hello Word //string ou texto
+fmt.Print"f" // para dar valor ou tipo para o item. ("x: %V, %T\n", x, x)
+
+https://play.golang.org/p/od0A8c1B1Ne
+https://play.golang.org/p/7JH8-1LB9-A
+
+= //atribuição // só pode ser feita dentro d um code block
+
+https://play.golang.org/p/bn6riDdt_-W
+
+https://play.golang.org/p/_grTzn1h4m9
+
+https://play.golang.org/p/9Fjuyvi8IJ0
+expressão // tipo := n +,-,.,/ n
+
+
+https://play.golang.org/p/7FNqI6yOQvb
+== //operador de comparação
+
+https://play.golang.org/p/JnuswfEvOW2
+
+var // funcina em qualquer lugar do codigo
+marmota // só funciona dentro do code block {}
+https://play.golang.org/p/IlIqaFIJTZQ
+
+func main // funcão principal 
+package main é o pack principal
+
+https://play.golang.org/p/lRtmeTH21NG
+valor zero dos tipos primitivos // int, float64, string, bool // 0, 0.0, "", false
+
+https://play.golang.org/p/HkBr2pRRYFx 
+string interpretado \n // pular linha // \t dava espaço pra caralho // \"\" deixava em aspas
+
+https://play.golang.org/p/xPvxjalHPVh
+string raw, vai ficar como foi digitado no codigo
+
+https://play.golang.org/p/RzDV-gx3bea
+Sprintln // mesma func do println, mas coloca todos os caracteres em um string apenas e se os tipos já forem strings ele não dá espaço entre eles. , "", para dar espaço entre eles  
+
+https://play.golang.org/p/28ST3m5tZo0
+contruindo meu tipo // dois tipos não são equivalentes 
+https://play.golang.org/p/7Yz1O4Av8G2
+Mesmo os valores sendo iguais, os tipos são diferentes, por isso não dá equivalnecia
+
+https://play.golang.org/p/7reNrpDBSl9
+Conversão de tipos. APENAS CONVERSION ou CONVERSÃO 
